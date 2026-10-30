@@ -1,0 +1,20 @@
+PHOTOGRAPHY CREDITS — verified 31 October 2026 (Philippines)
+
+wedding-hills.webp
+Photographer: Foto Pettine
+Source: https://unsplash.com/photos/a-bride-and-groom-walking-on-a-hill-IfjHaIoAoqE
+License: Unsplash License — https://unsplash.com/license
+Reused from the previously verified InviLinks wedding sample. Full provenance in hillside-source.json.
+
+wedding-moment.webp
+Photographer: Asad Photo Maldives, via Pexels
+Source: https://www.pexels.com/photo/silhouette-of-couple-on-seashore-1024984/
+Image ID: 1024984
+
+Seaside image license: Pexels License
+https://www.pexels.com/license/
+The source license page permits free use and modification and does not require attribution. Its restrictions still apply, including no false endorsement, no offensive portrayal, and no resale of unaltered images. These are illustrative stock wedding images, not photographs of Timothy and Sophia.
+Local modifications: resized/compressed to WebP, displayed with CSS cropping and decorative frames.
+
+MUSIC
+assets/ikaw-ang-hiling.mp3 is the user-supplied recording. No third-party music license is supplied with this export. Photography licensing does not cover the music.

@@ -1,0 +1,24 @@
+{
+  "filename": "couple-hill.jpg",
+  "title": "A bride and groom walking on a hill",
+  "photographer": "Foto Pettine",
+  "photographer_url": "https://unsplash.com/@fotopettine",
+  "source_page": "https://unsplash.com/photos/a-bride-and-groom-walking-on-a-hill-IfjHaIoAoqE",
+  "license": "Unsplash License",
+  "license_url": "https://unsplash.com/license",
+  "source_page_license_verified": true,
+  "source_type": "real photography",
+  "published": "2018-07-27",
+  "direct_image_url": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74",
+  "download_url": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&fm=jpg&q=85&w=1800",
+  "width": 1800,
+  "height": 1200,
+  "bytes": 156098,
+  "usage_notes": "Best hero. Distant couple walking away at sunset; ample sky above. Faces not recognizable at this resolution.",
+  "used_in_site": true,
+  "site_files": [
+    "hero.webp",
+    "gallery-3.webp",
+    "cinematic.webp"
+  ]
+}
